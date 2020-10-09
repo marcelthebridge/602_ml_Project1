@@ -8,7 +8,7 @@ Project exploring Rideshare dataset and utilizing ML techniques
 * Contents
   * EDA and first looks
   * Streamline Report
-  * Dataset
+  * Dataset from (https://www.kaggle.com/brllrb/uber-and-lyft-dataset-boston-ma) too large to attach
   * README.me Readme file
   
 ## Goals
