@@ -1,15 +1,14 @@
-# Rideshare_ML
-Project exploring Rideshare dataset and utilizing ML techniques
+# Wine Wizard ML
+Project to create digital sommelier from red wine dataset and utilizing ML techniques
 
 
 ## Overview
-* Data covering two years of Rideshare data (Uber and Lyft)
-* Can this data help predict the most profitable times to work?
+* Not wanting to spend hundreds of dollars or dozens of hours learning to discern quality wine, this project is hoping to open the door 
 * Contents
-  * EDA and first looks
-  * Streamline Report
-  * Dataset from (https://www.kaggle.com/brllrb/uber-and-lyft-dataset-boston-ma) too large to attach
-  * README.me Readme file
+  * [EDA and first looks](Project_1_Technical.ipynb)
+  * [Streamlined Report](Project_1_Report.ipynb)
+  * [Red Wine Dataset](winequality-red.csv)
+  * [README](README.md)
   
 ## Goals
   *
@@ -17,3 +16,15 @@ Project exploring Rideshare dataset and utilizing ML techniques
   *
 
 ## Data
+* fixed acidity
+* volatile acidity	
+* citric acid	
+* residual sugar	c
+* chlorides	
+* free sulfur dioxide	
+* total sulfur dioxide	
+* density	
+* pH	
+* sulphates	
+* alcohol
+* quality
