@@ -12,6 +12,7 @@ Project to create digital sommelier from red wine dataset and utilizing ML techn
   
 ## Goals
   * Create a model to help predict **quality** wines based on wine composition (see features below)
+  * [Deliver a fantastic video presentation (click here)](https://youtu.be/nQ-182cjVF0)
 
 ## Data
 * Fixed acidity
