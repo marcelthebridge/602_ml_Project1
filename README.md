@@ -11,20 +11,30 @@ Project to create digital sommelier from red wine dataset and utilizing ML techn
   * [README](README.md)
   
 ## Goals
-  *
-  *
-  *
+  * Create a model to help predict **quality** wines based on wine composition (see features below)
 
 ## Data
-* fixed acidity
-* volatile acidity	
-* citric acid	
-* residual sugar	c
-* chlorides	
-* free sulfur dioxide	
-* total sulfur dioxide	
-* density	
-* pH	
-* sulphates	
-* alcohol
-* quality
+* Fixed acidity
+    * Acids found within wines which do not evaporate readily
+* Volatile acidity
+    * Acectic acid levels.  Higher levels lead to a vinegary taste
+* Citric acid
+    * Can add a sort of 'freshness' to wines
+* Residual sugar
+    * Sugar that persists after fermentation.  Typically between 1 g/L and 45 g/L
+* Chlorides
+    * Salts
+* Free sulfur dioxide
+    * Free form of SO2.  Prevents microbial growth and oxidation.
+    * Total sulfur dioxide
+    * Amount of Free and Bound forms of SO2. Higher levels become evident in smell/taste of wine
+* Density
+    * Relationship of water, alcohol, and sugar
+* pH
+    * Measure of acidic or basic on a scale of 0-14. Most wines range from 3-4.
+* Sulphates
+    * Additive which contribues to SO2 levels.  
+* Aclohol
+    * Alcohol percentage
+* Quality
+    * A scale of 0-10.  Wines below 8 may be considered **bad** wines
